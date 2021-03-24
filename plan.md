@@ -2,9 +2,9 @@
 
 03.27. Algorithms
 
-03.26. Sport.
+03.26. Data Structures.
 
-03.25. Data Structures.
+03.25. Sport.
 
 03.24. Linux module. [Notes and Q&A](https://github.com/MrDanielHarka/learning/blob/main/linux.md)
 
