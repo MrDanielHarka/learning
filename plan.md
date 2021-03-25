@@ -1,6 +1,6 @@
 # My Learning Plan
 
-03.27. Algorithms
+03.27. Algorithms.
 
 03.26. Data Structures.
 
