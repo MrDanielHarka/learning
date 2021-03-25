@@ -24,7 +24,7 @@ Q7: How can we view the content of multiple files in the same time?\
 A7: With the **"cat"** command, like this: **"cat test.txt test_2.txt"**.
 
 Q8: How do we create a file?\
-A8: With the **"touch"** command, like this: **"test_file.md"**.
+A8: With the **"touch"** command, like this: **"touch test_file.md"**.
 
 ## Notes
 
