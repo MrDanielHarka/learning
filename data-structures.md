@@ -75,15 +75,61 @@ Different data structures are good for different types of applications, for diff
 		- Exponentially less efficient as the size of data set increases. The larger the data set, the less efficient it gets.
 	- These TCEs are **NOT** the only ones to use when deciding which data structure to use. Some provide **other functionality** that makes them super  useful.
 
-### Arrays
+### Array
 
 - List of elements (values and/or variables).
 
 - Arrays may contain different type of elements, depends on the language.
+- Random Access Data Structure: Can be accessed independently, no matter the other elements.
+- Usually has 3 attributes: name, type and size.
+- The type tells us what type of information is stored **within** the array. Can only store that type.
+- The size is an integer, which represents the **total amount of elements** stored in the array. **Size can not be changed!**
 
 - **Parallel arrays** are two or more arrays that:
 	- Contain the **same number of elements**.
 	- Have **corresponding values** in the same position.
-- Usually has 3 attributes: name, type and size.
-- The type tells us what type of information is stored **within** the array. Can only store that type.
-- The size is an integer, which represents the **total amount of elements** stored in the array.
+- Contents can be defined upon creation or can be added later.
+- Array items have numerical indexes. Referencing by **array's name** and **index #**.
+- Indexes are also used for **replacing items**.
+- Big(O) - Accessing O(1), Searching: O(n), Inserting: O(n), Deleting: O(n).
+
+### ArrayList
+
+- It's like a **growing array**. Similar to arrays, but size can change. Has **Dynamic Size**.
+- ArrayLists does not support element declaration upon creation.
+- Methods:
+	- Add: Add(Object) or Add(Object, Index)
+	- Remove: Remove(Object) or Remove(Index)
+	- Get: Get(Index) Same as referencing an index.
+	- Set: Set(Index, Object) Replaces object at index.
+	- Clear: Clear() Deletes the entire ArrayList.
+	- toArray: toAray() Converts arrayList to Array.
+- Big(O) - Accessing: O(1), Searching: O(n), Inserting: O(n), Deleting: O(n).
+
+### Stack
+
+- Sequential Access Data Structure: Can only be accessed in a particular order.
+	- Each element is **dependent** on the others.
+	- May only be obtainable **throught** those other elements.
+- LIFO Principle: Last In First Out
+- Methods:
+	- Push: Push(Object) Pushes an object on the top.
+	- Pop: Pop() Removes an object from the top.
+	- Peek: Peek() Shows the very top object.
+	- Contains: Contains(Object) Shows if "Object" is in the stack.
+- Stacks are used in **Recursion**.
+- Big(O) - Accessing: O(n), Searching: O(n), Inserting: O(1), Deleting: O(1).
+
+### Queue
+
+- Sequential Access Data Structure: Can only be accessed in a particular order.
+	- Each element is **dependent** on the others.
+	- May only be obtainable **throught** those other elements.
+- FIFO Principle: First In First Out
+- We add to the back (Tail) and remove from the front (Head).
+- Methods:
+	- Enqueue: Enqueue(Object) Adds element to the **tail** of Queue. This way the size of the queue also increases.
+	- Dequeue: Dequeue(Object) Removes element from **head**.
+	- Peek: Peek() Shows the very front object (in head).
+	- Contains: Contains(Object) Shows if "Object" is in the queue.
+- Big(O) - Accessing: O(n), Searching: O(n), Inserting: O(1), Deleting: O(1).
