@@ -1,31 +1,5 @@
 # Data Structures
 
-## Q & A
-
-Q1: ?\
-A1: 
-
-Q2: ?\
-A2: 
-
-Q3: ?\
-A3: 
-
-Q4: ?\
-A4: 
-
-Q5: ?\
-A5: 
-
-Q6: ?\
-A6: 
-
-Q7: ?\
-A7: 
-
-Q8: ?\
-A8: 
-
 ## Notes
 
 21.03.26.
@@ -78,7 +52,6 @@ Different data structures are good for different types of applications, for diff
 ### Array
 
 - List of elements (values and/or variables).
-
 - Arrays may contain different type of elements, depends on the language.
 - Random Access Data Structure: Can be accessed independently, no matter the other elements.
 - Usually has 3 attributes: name, type and size.
@@ -111,7 +84,7 @@ Different data structures are good for different types of applications, for diff
 - Sequential Access Data Structure: Can only be accessed in a particular order.
 	- Each element is **dependent** on the others.
 	- May only be obtainable **throught** those other elements.
-- LIFO Principle: Last In First Out
+- LIFO Principle: Last In First Out.
 - Methods:
 	- Push: Push(Object) Pushes an object on the top.
 	- Pop: Pop() Removes an object from the top.
@@ -133,3 +106,38 @@ Different data structures are good for different types of applications, for diff
 	- Peek: Peek() Shows the very front object (in head).
 	- Contains: Contains(Object) Shows if "Object" is in the queue.
 - Big(O) - Accessing: O(n), Searching: O(n), Inserting: O(1), Deleting: O(1).
+
+### Linked List
+
+- Sequential Access Linear Data Structure: Every element is a separate object called a **Node**, which has 2 parts:
+	- The **data**
+	- The **reference** (or pointer) which points to the next **Node** in the list.
+- Node:
+	- Data: **Strings**, **Integers** and **Booleans**.
+	- Reference/pointer: The next Node in the Linked List.
+- Visualization:
+	- Head Node: Data + Ref. to 2nd Node.
+	- 2nd Node: Data + Ref. to 3rd Node.
+	- 3rd Node: Data + Ref. to n-th Node.
+	- N-th Node: Data + Ref. to Tail Node.
+	- Tail Node: Data + Ref. "null".
+- Adding and removing Nodes.
+	- Head:
+		- Adding: We can just add a new Node to the start and link it to the 2nd one. Then it will be the first one.
+		- Removing: When we take the first Node and point it to "null", then it will be cut off from the others and will be exiled from the Linked List. 2nd will now be the Head(1st).
+	- Middle:
+		- Adding: New Node's pointer will point to the next one, and the one before should point to the new Node.
+		- Removing: Point the Node which is before to the Node which is after the Node, that we would like to remove. The actual Node should be pointed to "null".
+	- Tail:
+		- Adding: We make a new Node, point it to "null" and point the former tail Node, to the new one.
+		- Removing: We point the previous Node and the one we would like to remove to "null".
+- Big(O) - Accessing: O(n), Searching: O(n), Inserting: O(n) or O(1), Deleting: O(n) or O(1).
+
+### Doubly-Linked List
+
+- Similar to Linked Lists, but able to traverse both **forwards** and **backwards** using pointers.
+- It has 3 parts:
+	- The **data**
+	- The **reference** (or pointer) which points to the next **Node** in the list.
+	- The **reference** (or pointer) which points to the previous **Node** in the list.
+- Big(O) - Accessing: O(n), Searching: O(n), Inserting: O(n) or O(1), Deleting: O(n) or O(1).
