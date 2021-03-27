@@ -2,11 +2,11 @@
 
 03.28. Internet
 
-03.27. Algorithms.
+03.27. Algorithms
 
 03.26. Data Structures [Notes](https://github.com/MrDanielHarka/learning/blob/main/data-structures.md)
 
-03.25. Sport.
+03.25. Sport
 
 03.24. Linux module [Notes and Q&A](https://github.com/MrDanielHarka/learning/blob/main/linux.md)
 
