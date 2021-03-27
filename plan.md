@@ -2,7 +2,7 @@
 
 03.28. Internet
 
-03.27. Algorithms
+03.27. Algorithms [Notes](https://github.com/MrDanielHarka/learning/blob/main/algorithms.md)
 
 03.26. Data Structures [Notes](https://github.com/MrDanielHarka/learning/blob/main/data-structures.md)
 
