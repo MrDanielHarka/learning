@@ -13,9 +13,9 @@
 
 ### HTTP (Hypertext Transfer Protocol)
 
-    - Allows communication between hosts and clients.
-    - Supports a mixture of network configurations.
-    - Communicating on request/response pair.
+- Allows communication between hosts and clients.
+- Supports a mixture of network configurations.
+- Communicating on request/response pair.
 
 ### The URL (Uniform Resource Locator) ###
 
