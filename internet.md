@@ -77,7 +77,7 @@ The server has determined that the resource has not changed and the client shoul
 
 There are others, but those are less common.
 
-**4xx: Client Error**
+**4xx: Client Error Responses**
 
 400 Bad Request:
 The server could not understand the request due to invalid syntax.
@@ -96,7 +96,7 @@ The server can not find the requested resource. In the browser, this means the U
 
 There are others, but those are less common.
 
-**5xx: Server Error**
+**5xx: Server Error Responses**
 
 500 Internal Server Error:
 The server has encountered a situation it doesn't know how to handle.
