@@ -38,7 +38,28 @@
     - TRACE: used to retrieve the hops that a request takes to round trip from the server. Each intermediate proxy or gateway would inject its IP or DNS name into the Via header field. This can be used for diagnostic purposes.
     - OPTIONS: used to retrieve the server capabilities. On the client-side, it can be used to modify the request based on what the server can support.
 
+### TCP vs UDP:
+
+- TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol.
+- The speed for TCP is slower while the speed of UDP is faster
+- TCP uses handshake protocol like SYN, SYN-ACK, ACK while UDP uses no handshake protocols
+- TCP does error checking and also makes error recovery, on the other hand, UDP performs error checking, but it discards erroneous packets.
+- TCP has acknowledgment segments, but UDP does not have any acknowledgment segment.
+- TCP is heavy-weight, and UDP is lightweight.
+
+
 ### Status Codes
+
+**General**
+
+HTTP response status codes indicate whether a specific HTTP request has been successfully completed.
+
+Responses are grouped in five classes:
+- Informational responses (100–199)
+- Successful responses (200–299)
+- Redirects (300–399)
+- Client errors (400–499)
+- Server errors (500–599)
 
 **1xx: Informational Messages**
 
@@ -151,3 +172,13 @@ Cons:
 ### Minification
 
 "Minification (also minimisation or minimization) is the process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing its functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient."
+
+### The 7 layers of the OSI model
+
+- Layer 7 - Application: The one at the top. It’s what most users see. In the OSI model, this is the layer that is the “closest to the end user”.
+- Layer 6 - Presentation: It represents the preparation or translation of application format to network format, or from network formatting to application format. “Presents” data for the application or the network. A good example of this is encryption and decryption of data for secure transmission - this happens at Layer 6.
+- Layer 5 - Session: When two devices, computers or servers need to “speak” with one another, a session needs to be created. Functions involve setup, coordination (how long should a system wait for a response, for example) and termination between the applications at each end of the session.
+- Layer 4 – Transport: The Transport Layer deals with the coordination of the data transfer between end systems and hosts. How much data to send, at what rate, where it goes, etc. TCP and UDP port numbers work at Layer 4, while IP addresses work at Layer 3, the Network Layer.
+- Layer 3 - Network: Most of the router functionality is found here. This layer is responsible for packet forwarding, including routing through different routers. IP addresses work here.
+- Layer 2 – Data Link: Provides node-to-node data transfer (between two directly connected nodes), and also handles error correction from the physical layer.
+- Layer 1 - Physical: Represents the electrical and physical representation of the system. Can include everything from the cable type, radio frequency link (as in an 802.11 wireless systems), as well as the layout of pins, voltages and other physical requirements.
