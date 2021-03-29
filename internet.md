@@ -17,7 +17,7 @@
 - Supports a mixture of network configurations.
 - Communicating on request/response pair.
 
-### The URL (Uniform Resource Locator) ###
+### The URL (Uniform Resource Locator)
 
 - The way of sending request messages.
 - Components:
@@ -25,7 +25,7 @@
     - Port: Default is 80, but can be set explicitly.
     - Local path: Resource on the server.
 
-### Verbs ###
+### Verbs
 
 - "The action that should be performed on the host is specified via HTTP verbs.""
 - Most common request verbs:
@@ -38,7 +38,7 @@
     - TRACE: used to retrieve the hops that a request takes to round trip from the server. Each intermediate proxy or gateway would inject its IP or DNS name into the Via header field. This can be used for diagnostic purposes.
     - OPTIONS: used to retrieve the server capabilities. On the client-side, it can be used to modify the request based on what the server can support.
 
-### Status Codes ###
+### Status Codes
 
 **1xx: Informational Messages**
 
@@ -114,3 +114,40 @@ The server is not ready to handle the request. Common causes are a server that i
 This error response is given when the server is acting as a gateway and cannot get a response in time.
 
 There are others, but those are less common.
+
+### Cookies vs. localStorage vs. sessionStorage
+
+**General**
+
+In all cases, these storage mechanisms will be specific to an individual browser on an individual computer/device. Any requirement to store data on an ongoing basis across sessions will need to involve application server side - most likely using a database, but possibly XML or a text/CSV file. localStorage, sessionStorage, and cookies are all client storage solutions. Session data is held on the server where it remains under your direct control.
+
+**localStorage**
+
+Pros:
+- Stores data with no expiration date.
+- Storage limit is about 5MB.
+- Data is never transferred to the server.
+Cons:
+- Plaintext, hence not secure by design.
+- Limited to string data, hence need to be serialized.
+- Can only be read on client-side.
+
+**sessionStorage**
+- Stores data only for a session, meaning that the data is stored until the browser (or tab) is closed.
+- Data is never transferred to the server.
+- Can only be read on client-side.
+- Storage limit is about 5-10MB.
+- Opening multiple tabs/windows with the same URL creates sessionStorage for each tab/window.
+
+**Cookie**
+
+- Stores data that has to be sent back to the server with subsequent XHR requests. Its expiration varies based on the type and the expiration duration can be set from either server-side or client-side.
+- Cookies are primarily for server-side reading (can also be read on client-side), localStorage and sessionStorage can only be read on client-side.
+- Size must be less than 4KB.
+- Cookies can be made secure by setting the httpOnly flag as true for that cookie. This prevents client-side access to that cookie.
+
+![alt text](https://miro.medium.com/max/700/1*dMoXCZgsdlQoSITo5BdXoA.png "Cookies vs. localStorage vs. sessionStorage")
+
+### Minification
+
+"Minification (also minimisation or minimization) is the process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing its functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient."
