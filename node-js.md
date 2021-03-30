@@ -27,7 +27,7 @@ We have to cd to the desired directory, then type:
 
 ### Debugging/inspecting a script
 
-The former `node debug` command is deprecated and we can inspect a script, by typing:
+The former `node debug` command is deprecated and we can inspect a script by typing:
 
 `node inspect program.js`
 
