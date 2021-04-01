@@ -1,5 +1,11 @@
 # My Learning Plan
 
+04.02. JavaScript Basics Practice
+
+04.01. Sport day.
+
+03.31. JavaScript Basics Repitition
+
 03.30. Basic Node.js CLI ([Notes](https://github.com/MrDanielHarka/learning/blob/main/node-js.md)) & OOP and Classes
 
 03.29. Internet Basics ([Notes](https://github.com/MrDanielHarka/learning/blob/main/internet.md))
@@ -10,7 +16,7 @@
 
 03.26. Data Structures ([Notes](https://github.com/MrDanielHarka/learning/blob/main/data-structures.md))
 
-03.25. Sport
+03.25. Sport day.
 
 03.24. Linux module ([Notes and Q&A](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
 
