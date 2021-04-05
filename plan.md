@@ -1,5 +1,7 @@
 # My Learning Plan
 
+04.05. Reading Head First JavaScript
+
 04.04. JavaScript OOP and Classes
 
 04.03. JavaScript Basics Practice
