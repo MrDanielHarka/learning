@@ -1,12 +1,22 @@
 # My Learning Plan
 
-04.05. Reading Head First JavaScript
+04.10. Git & Debugging
 
-04.04. JavaScript OOP and Classes
+04.09. Sport day.
 
-04.03. JavaScript Basics Practice
+04.08. Sport day.
 
-04.02. JavaScript Basics Practice
+04.07. Sport day.
+
+04.06. JavaScript Practice.
+
+04.05. Reading Head First JavaScript.
+
+04.04. JavaScript OOP and Classes.
+
+04.03. JavaScript Basics Practice.
+
+04.02. JavaScript Basics Practice.
 
 04.01. Sport day.
 
