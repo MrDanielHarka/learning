@@ -18,7 +18,7 @@ Q5: What is the difference between **">"** and **">>"**?\
 A5: **">"** completely replaces/overwrites the content of a file, while **">>"** pushes the new information below the content of the target file.
 
 Q6: What is the difference between **"&&"** and **"||"**?\
-A6: When **"&&"** is between commands, the next one will only execute while the one before runs, while using **"||"**, the next command will only run, if the previous one does **NOT** execute.
+A6: When **"&&"** is between commands, the next one will only execute if the one before runs, while using **"||"**, the next command will only run, if the previous one does **NOT** execute.
 
 Q7: How can we view the content of multiple files in the same time?\
 A7: With the **"cat"** command, like this: **"cat test.txt test_2.txt"**.
@@ -27,8 +27,6 @@ Q8: How do we create a file?\
 A8: With the **"touch"** command, like this: **"touch test_file.md"**.
 
 ## Notes
-
-21.03.24.
 
 I managed to auto-hide the top bar. Turned out only a pc restart was needed, so the Tweak app would initialize the auto-hide feature. Wohoo! I wouldn't think a restart would be needed for such a minor change, but now I know.
 
@@ -74,7 +72,7 @@ I managed to auto-hide the top bar. Turned out only a pc restart was needed, so 
     cat test_*
 - "less" works as a pager and helps us view bigger files. We can use the navigation keys, to go up and down. We quit with "q".
 - "mv file.txt to_this_dir1" Moves a file to a different directory.
-    - "mv file.txt test_1.txt dir1 dir1" The last argument is where the files will be moved.
+    - "mv file.txt test_1.txt dir1" The last argument is where the files will be moved.
     - "mv file_1.txt file_2.txt" renames the first file to the 2nd and keeps it in the same directory.
     - This works also on directories.
 - "cp" is almost identical to "mv", but keeps a file in the source directory.
