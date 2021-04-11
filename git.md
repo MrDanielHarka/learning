@@ -28,11 +28,7 @@
 - **git checkout -b newBranch** creates a new branch and cds there.
 - **git commit -a -m "message"** adds file to staging area and commits it.
 - **git pull --rebase** Pulls then rebases repo.
-- **git pull --rebase; git push**
-
-
-------------------------
-To Push a new branch : git push -u BranchName
-To Commit and add Same Time : git commit -am "you comment"
-To Add all the files without a commit : git add .
-To Merge a Branch into master : 1: git checkout master -> git merge BranchName
+- **git diff** shows the changes made.
+- **git stash save "some message"** savesw current state.
+- **git stash list** Shows the list of stashes.
+- **git stash apply stash@{0}** recovers past changes.
