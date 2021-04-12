@@ -1,6 +1,6 @@
 # My Learning Journey
 
-04.12. Repetition what I learnt until now
+04.12. Repeating what I learnt until now
 
 04.11. Debugging ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/debugging.md)) & Repetition
 
