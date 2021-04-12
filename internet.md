@@ -31,8 +31,6 @@ A9: An architectural style for providing standards between computer systems on t
 
 ## Notes
 
-21.03.28.
-
 ### The Internet Layers
 
 - HTTP & DNS: Manage the sending and receiving of web files.

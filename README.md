@@ -1,5 +1,7 @@
 # My Learning Journey
 
+04.13. JavaScript practice
+
 04.12. Repeating what I learnt until now
 
 04.11. Debugging ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/debugging.md)) & Repetition
@@ -42,4 +44,4 @@
 
 03.23. JavaScript Basics
 
-03.22. Sport day & Linux installation Added ([Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
+03.22. Sport day & Linux installation Added ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
