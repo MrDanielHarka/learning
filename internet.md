@@ -1,5 +1,33 @@
 # The Internet
 
+## Q & A
+
+Q1: What are HTTP & DNS used for?\
+A1: Used and responsible for sending and receiving web files.
+
+Q2: What is TCP/IP & Routing used for?\
+A2: Used for braking down and transporting packets.
+
+Q3: What are the 4 main HTTP request modes and what are they for?\
+A3: 1. GET used to read/retrieve a representation of a source. It returns in XML or JSON. 2. POST used to create new resources. Carries payload that specifies the data for the new resource. 3. PUT utilized for update capabilities. Payload may contain updated data for the resource. 4. DELETE used to delete a resource identified by a URI.
+
+Q4: What is the difference between TCP and UDP?\
+A4: TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol.
+
+Q5: What are HTTP status codes used for?\
+A5: Tells us if an HTTP request has been successfully completed.
+
+Q6: What information can we obtain from Chrome Devtools if we would like to inspect the HTTP Requests/Responses?\
+A6: It can shows us how many Requests/Responses we get and how long did they take and if there were any errors.
+
+Q7: What is minification?\
+A7: It is when we remove all unnecessary characters from our code (such as whitespace, line breaks, commments), so that it would have smaller size and would be transferred much faster.
+
+Q8: What is the OSI Model?\
+A8: It desribes the 7 layes that computer systems use, to communicate over a network. 
+
+Q9: What is REST?\
+A9: An architectural style for providing standards between computer systems on the web. Makes it easier for systems to communicate with each other.
 
 ## Notes
 
@@ -30,7 +58,7 @@
 - "The action that should be performed on the host is specified via HTTP verbs.""
 - Most common request verbs:
     - GET: fetch an existing resource. URL contains all necessary info the server needs to locate and return the resource.
-    - POST: create a new resource. Usually carryies payload that specifies the data for the new resource.
+    - POST: create a new resource. Usually carries payload that specifies the data for the new resource.
     - PUT: update an existing resource. Payload may contain the updated data for the resource.
     - DELETE: delete an existing resource.
 - Less commong verbs that HTTP also supports:
