@@ -1,5 +1,7 @@
 # My Learning Journey
 
+04.14. JavaScript practice
+
 04.13. JavaScript practice
 
 04.12. Repeating what I learnt until now
