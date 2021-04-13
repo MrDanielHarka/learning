@@ -6,7 +6,7 @@ Q1: How does linear search work?\
 A1: It starts with the first element and iterates over all, until it finds the one we are looking for. Values do not need to be ordered.
 
 Q2: How does binary search work?\
-A2: List must be sorted. 1. Determines middle of list. 2. Compares middle to target element. 3. If it doesn't match, compares value with target. 4. Repeas from step two, until target is found.
+A2: List must be sorted. 1. Determines middle of list. 2. Compares middle to target element. 3. If it doesn't match, compares value with target. 4. Repeats from step two, until target is found.
 
 Q3: Explain 4 sorting algorithms!\
 A3: **Bogo sort** (aka stupid sort) randomly changes values, until list is sorted. **Selection sort** goes one by one, finds the smallest value and puts in to the beginning of the list and starts again. **Insertion sort** is similar to selection sort, but when it checks the list and two numbers are in correct order, then those are skipped and the next one is checked. **Bubble sort** repeatedly swaps adjacent elements if they are in a wrong order, until all elements are in order.
