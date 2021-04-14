@@ -1,10 +1,16 @@
 # My Learning Journey
 
+04.17. 
+
+04.16. Sport day with short repetition
+
+04.15. Sport day with short repetition
+
 04.14. JavaScript practice
 
 04.13. JavaScript practice
 
-04.12. Repeating what I learnt until now
+04.12. Repeating what I learned until now
 
 04.11. Debugging ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/debugging.md)) & Repetition
 
