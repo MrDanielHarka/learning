@@ -55,5 +55,5 @@
 03.22. Sport day & Linux installation Added ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
 
 **What I learned before, but not documented here**\
-A lot, but the following are worth mentioning:
+A lot, but the following are worth mentioning:\
 WordPress, HTML5, CSS, some VERY basic Python.
