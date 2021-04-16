@@ -1,14 +1,14 @@
 # My Learning Journey
 
-04.17. 
+04.17. JavaScript OOP and Classes
 
 04.16. Sport day with short repetition
 
 04.15. Sport day with short repetition
 
-04.14. JavaScript practice
+04.14. JavaScript and CSS practice
 
-04.13. JavaScript practice
+04.13. JavaScript and CSS practice
 
 04.12. Repeating what I learned until now
 
@@ -28,13 +28,13 @@
 
 04.04. JavaScript OOP and Classes
 
-04.03. JavaScript Basics Practice
+04.03. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
 
-04.02. JavaScript Basics Practice
+04.02. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
 
 04.01. Sport day with short repetition
 
-03.31. JavaScript Basics Repitition
+03.31. JavaScript Basics Repitition ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
 
 03.30. Basic Node.js CLI ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/node-js.md)) & OOP and Classes
 
@@ -50,6 +50,10 @@
 
 03.24. Linux module ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
 
-03.23. JavaScript Basics
+03.23. JavaScript Basics ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
 
 03.22. Sport day & Linux installation Added ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
+
+**What I learned before, but not documented here**\
+A lot, but the following are worth mentioning:
+WordPress, HTML5, CSS, some VERY basic Python.
