@@ -1,6 +1,6 @@
 # My Learning Journey
 
-04.17. JavaScript OOP and Classes
+04.17. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
 04.16. Sport day with short repetition
 
