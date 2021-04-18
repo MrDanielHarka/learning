@@ -1,5 +1,9 @@
 # My Learning Journey
 
+04.19. HTML and CSS repitition
+
+04.18. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
+
 04.17. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
 04.16. Sport day with short repetition
