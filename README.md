@@ -1,5 +1,7 @@
 # My Learning Journey
 
+04.21. CSS practice ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
+
 04.20. JavaScript OOP repitition
 
 04.19. HTML and CSS repitition
