@@ -1,5 +1,7 @@
 # My Learning Journey
 
+04.22. Sport day with short repetition
+
 04.21. CSS practice ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
 04.20. JavaScript OOP repitition
