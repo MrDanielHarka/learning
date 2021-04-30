@@ -1,5 +1,7 @@
 # My Learning Journey
 
+04.30. Sport day with short repetition
+
 04.29. Sport day with short repetition
 
 04.28. HTML & CSS practice
