@@ -1,8 +1,14 @@
 # My Learning Journey
 
-05.01. Sport day with short repetition
+05.04. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
-04.30. Sport day with short repetition
+05.03. Internet Basics repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/internet.md))
+
+05.02. Sport day with repetition
+
+05.01. Sport day with repetition
+
+04.30. Sport day with repetition
 
 04.29. Sport day with short repetition
 
