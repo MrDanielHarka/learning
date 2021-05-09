@@ -1,5 +1,9 @@
 # My Learning Journey
 
+05.09. Typescript learning
+
+05.08. Sport day with short repetition
+
 05.07. Sport day with short repetition
 
 05.06. Sport day with repetition
