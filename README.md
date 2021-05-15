@@ -1,5 +1,17 @@
 # My Learning Journey
 
+05.15. Sport day with Angular practice
+
+05.14. Sport day with short Angular repitition
+
+05.13. Sport day with Angular learning
+
+05.12. Angular learning
+
+05.11. Angular learning
+
+05.10. Typescript learning
+
 05.09. Typescript learning
 
 05.08. Sport day with short repetition

@@ -15,7 +15,7 @@ Q4: What is the inspect command used for?\
 A4: We can debug our code with the help of that command.
 
 Q5: How do we exit the inspector?\
-A5: By pressing "Ctrl+C" twice or typing ".exit". 
+A5: By pressing "Ctrl+C" twice or typing ".exit".
 
 ## Notes
 
