@@ -1,8 +1,26 @@
 # My Learning Journey
 
+05.24. Angular learning
+
+05.23. Angular learning
+
+05.22. Sport day with Angular practice
+
+05.21. Sport day with short Angular repetition
+
+05.20. Sport day with Angular learning
+
+05.19. Angular learning
+
+05.18. Angular learning
+
+05.17. Angular learning
+
+05.16. Angular learning
+
 05.15. Sport day with Angular practice
 
-05.14. Sport day with short Angular repitition
+05.14. Sport day with short Angular repetition
 
 05.13. Sport day with Angular learning
 
@@ -20,11 +38,11 @@
 
 05.06. Sport day with repetition
 
-05.05. Javascript repitition
+05.05. Javascript repetition
 
-05.04. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
+05.04. CSS repetition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
-05.03. Internet Basics repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/internet.md))
+05.03. Internet Basics repetition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/internet.md))
 
 05.02. Sport day with repetition
 
@@ -36,7 +54,7 @@
 
 04.28. HTML & CSS practice
 
-04.27. JavaScript repitition
+04.27. JavaScript repetition
 
 04.26. HTML & CSS practice
 
@@ -50,13 +68,13 @@
 
 04.21. CSS practice ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
-04.20. JavaScript OOP repitition
+04.20. JavaScript OOP repetition
 
-04.19. HTML and CSS repitition
+04.19. HTML and CSS repetition
 
-04.18. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
+04.18. CSS repetition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
-04.17. CSS repitition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
+04.17. CSS repetition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
 04.16. Sport day with short repetition
 
@@ -90,7 +108,7 @@
 
 04.01. Sport day with short repetition
 
-03.31. JavaScript Basics Repitition ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
+03.31. JavaScript Basics repetition ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
 
 03.30. Basic Node.js CLI ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/node-js.md)) & OOP and Classes
 
