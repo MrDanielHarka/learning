@@ -1,5 +1,11 @@
 # My Learning Journey
 
+05.27. Sport day with Javascript learning
+
+05.26. Angular and Javascript learning
+
+05.25. Angular learning
+
 05.24. Angular learning
 
 05.23. Angular learning
