@@ -1,8 +1,10 @@
 # My Learning Journey
 
-05.27. Sport day with Javascript learning
+05.28. Sport day with JavaScript practice
 
-05.26. Angular and Javascript learning
+05.27. Sport day with JavaScript learning
+
+05.26. Angular and JavaScript learning
 
 05.25. Angular learning
 
@@ -44,7 +46,7 @@
 
 05.06. Sport day with repetition
 
-05.05. Javascript repetition
+05.05. JavaScript repetition
 
 05.04. CSS repetition ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/css.md))
 
@@ -108,13 +110,13 @@
 
 04.04. JavaScript OOP and Classes
 
-04.03. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
+04.03. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/JavaScript-cheat-sheet.md))
 
-04.02. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
+04.02. JavaScript Basics Practice ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/JavaScript-cheat-sheet.md))
 
 04.01. Sport day with short repetition
 
-03.31. JavaScript Basics repetition ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
+03.31. JavaScript Basics repetition ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/JavaScript-cheat-sheet.md))
 
 03.30. Basic Node.js CLI ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/node-js.md)) & OOP and Classes
 
@@ -130,7 +132,7 @@
 
 03.24. Linux module ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
 
-03.23. JavaScript Basics ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/javascript-cheat-sheet.md))
+03.23. JavaScript Basics ([My JS CheatSheet](https://github.com/MrDanielHarka/cheat-sheets/blob/main/JavaScript-cheat-sheet.md))
 
 03.22. Sport day & Linux installation Added ([Q&A and Notes](https://github.com/MrDanielHarka/learning/blob/main/linux.md))
 
