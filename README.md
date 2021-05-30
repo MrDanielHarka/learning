@@ -1,5 +1,7 @@
 # My Learning Journey
 
+05.30. JavaScript learning
+
 05.29. JavaScript learning
 
 05.28. Sport day with JavaScript practice
