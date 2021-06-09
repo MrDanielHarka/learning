@@ -1,5 +1,9 @@
 # My Learning Journey
 
+06.09. Practicing HTML & CSS
+
+06.08. Practicing HTML & CSS
+
 06.07. Practicing HTML & CSS
 
 06.06. JavaScript learning
