@@ -1,5 +1,7 @@
 # My Learning Journey
 
+06.10.Sport day with JavaScript repetition
+
 06.09. Practicing HTML & CSS
 
 06.08. Practicing HTML & CSS
