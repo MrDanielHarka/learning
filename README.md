@@ -1,5 +1,7 @@
 # My Learning Journey
 
+07.06. JavaScript learning
+
 07.05. Rest day
 
 07.04. JavaScript learning
