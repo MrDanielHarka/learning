@@ -1,5 +1,7 @@
 # My Learning Journey
 
+07.20. JavaScript learning
+
 07.19. JavaScript learning
 
 07.18. JavaScript learning
