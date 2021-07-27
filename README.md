@@ -1,5 +1,7 @@
 # My Learning Journey
 
+07.26. Holiday with short HTML, CSS or JS repetition.
+
 07.25. JavaScript learning
 
 07.24. JavaScript learning
