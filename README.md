@@ -1,5 +1,7 @@
 # My Learning Journey
 
+08.13. Sport day with JavaScript repetition
+
 08.12. Sport day with JavaScript repetition
 
 07.26-08.11. Holiday with short HTML, CSS or JS repetition.
