@@ -1,5 +1,7 @@
 # My Learning Journey
 
+08.16. JavaScript learning
+
 08.15. JavaScript learning
 
 08.14. JavaScript learning
