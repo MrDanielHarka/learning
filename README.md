@@ -1,5 +1,7 @@
 # My Learning Journey
 
+08.27. Sport day with JavaScript repetition
+
 08.26. Sport day with JavaScript repetition
 
 08.25. JavaScript learning
