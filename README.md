@@ -1,5 +1,9 @@
 # My Learning Journey
 
+09.14. Computer Technology Basics
+
+09.13. CISCO Networks
+
 09.12. HTML & CSS repetition
 
 09.11. HTML & CSS repetition
