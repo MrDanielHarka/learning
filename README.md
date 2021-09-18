@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.18. Sport day with repetition
+
 09.17. Sport day with repetition
 
 09.16. HTML & CSS
