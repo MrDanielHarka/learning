@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.19. CISCO Networks and JavaScript learning
+
 09.18. Sport day with repetition
 
 09.17. Sport day with repetition
