@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.23. HTML, CSS & JavaScript learning
+
 09.22. JavaScript learning
 
 09.21. XAMPP phpMyAdmin, CISCO Networks and JavaScript learning
