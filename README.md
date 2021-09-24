@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.24. WSL (Windows Subsystem for Linux) and NPM learning
+
 09.23. HTML, CSS & JavaScript learning
 
 09.22. JavaScript learning
