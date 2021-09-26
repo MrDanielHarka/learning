@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.26. Sport day with JavaScript repetition
+
 09.25. Sport day with repetition
 
 09.24. WSL (Windows Subsystem for Linux) and NPM learning
