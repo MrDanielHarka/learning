@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.28. Sport day with Angular learning
+
 09.27. Angular learning
 
 09.26. Sport day with JavaScript repetition
