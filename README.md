@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.29. Databases and Angular learning
+
 09.28. Sport day with Angular learning
 
 09.27. Angular learning
