@@ -1,5 +1,7 @@
 # My Learning Journey
 
+09.30. Angular learning & HTML and CSS repetition
+
 09.29. Databases and Angular learning
 
 09.28. Sport day with Angular learning
