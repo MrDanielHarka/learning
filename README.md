@@ -1,5 +1,7 @@
 # My Learning Journey
 
+10.04. Angular, CISCO Packet Tracer & JavaScript
+
 10.03. Angular learning & HTML and CSS repetition
 
 10.02. Sport day with repetition
