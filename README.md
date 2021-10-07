@@ -1,5 +1,11 @@
 # My Learning Journey
 
+10.07. Javascript & Python learning and HTML & CSS practice
+
+10.06. Databases and Javascript learning
+
+10.05. Angular and Javascript learning
+
 10.04. Angular, CISCO Packet Tracer & JavaScript
 
 10.03. Angular learning & HTML and CSS repetition
