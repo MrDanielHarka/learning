@@ -1,5 +1,7 @@
 # My Learning Journey
 
+10.08. Sport day with short Angular learning
+
 10.07. Javascript & Python learning and HTML & CSS practice
 
 10.06. Databases and Javascript learning
