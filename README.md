@@ -1,5 +1,9 @@
 # My Learning Journey
 
+10.11. Python & local networks learning and JavaScript practice.
+
+10.10. Python learning
+
 10.09. JavaScript and Angular learning.
 
 10.08. Sport day with short Angular learning
