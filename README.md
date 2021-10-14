@@ -1,10 +1,10 @@
 # My Learning Journey
 
-10.12. Angular learning
+10.14. Angular learning and HTML & CSS practice
 
 10.13. Angular & Database learning
 
-10.14. Angular learning and HTML & CSS practice
+10.12. Angular learning
 
 10.11. Python & local networks learning and JavaScript practice.
 
