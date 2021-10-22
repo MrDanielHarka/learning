@@ -1,5 +1,13 @@
 # My Learning Journey
 
+10.22. Sport day with short repetition
+
+10.21. JavaScript learning and HTML & Repetition
+
+10.20. Angular and PHP learning
+
+10.19. Angular learning 
+
 10.18. JavaScript and Angular learning
 
 10.17. Sport day with short repetition
