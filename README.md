@@ -1,5 +1,11 @@
 # My Learning Journey
 
+10.25. Angular learning
+
+10.24. Angular learning
+
+10.23. Angular learning
+
 10.22. Sport day with short repetition
 
 10.21. JavaScript learning and HTML & Repetition
