@@ -1,5 +1,9 @@
 # My Learning Journey
 
+10.27. Angular learning
+
+10.26. Bootstrap learning
+
 10.25. Angular learning
 
 10.24. Angular learning
