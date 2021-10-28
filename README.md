@@ -1,5 +1,7 @@
 # My Learning Journey
 
+10.28. Sport day with short repetition
+
 10.27. Angular learning
 
 10.26. Bootstrap learning
