@@ -1,5 +1,9 @@
 # My Learning Journey
 
+10.30. Angular learning
+
+10.29. Sport day with short repetition
+
 10.28. Sport day with short repetition
 
 10.27. Angular learning
