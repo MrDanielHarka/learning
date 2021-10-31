@@ -1,5 +1,7 @@
 # My Learning Journey
 
+10.31. Angular and NodeJS learning
+
 10.30. Angular learning
 
 10.29. Sport day with short repetition
