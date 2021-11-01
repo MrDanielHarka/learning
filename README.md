@@ -1,5 +1,7 @@
 # My Learning Journey
 
+11.01. Angular and NodeJS learning
+
 10.31. Angular and NodeJS learning
 
 10.30. Angular learning
