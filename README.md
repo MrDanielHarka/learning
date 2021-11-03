@@ -1,5 +1,9 @@
 # My Learning Journey
 
+11.03. HTML & CSS practice
+
+11.02. HTML & CSS practice
+
 11.01. Angular and NodeJS learning
 
 10.31. Angular and NodeJS learning
