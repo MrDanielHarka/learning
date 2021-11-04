@@ -1,5 +1,7 @@
 # My Learning Journey
 
+11.04. Angular and Python learning
+
 11.03. HTML & CSS practice
 
 11.02. HTML & CSS practice
