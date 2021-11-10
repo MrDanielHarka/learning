@@ -1,5 +1,11 @@
 # My Learning Journey
 
+11.10. PHP learning and HTML & CSS practice
+
+11.09. Sport day with short repetition
+
+11.08. Angular and JavaScript practice
+
 11.07. JavaScript practice
 
 11.06. Sport day with short repetition
