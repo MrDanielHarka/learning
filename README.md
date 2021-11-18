@@ -1,5 +1,11 @@
 # My Learning Journey
 
+11.18. Python learning
+
+11.17. PHP learning
+
+11.16. Angular learning
+
 11.15. Angular learning
 
 11.14. Angular learning
