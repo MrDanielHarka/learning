@@ -1,5 +1,13 @@
 # My Learning Journey
 
+11.22. Python learning
+
+11.21. Angular learning
+
+11.20. Sport day with short repetition
+
+11.19. Sport day with short repetition
+
 11.18. Python learning
 
 11.17. PHP learning
