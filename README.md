@@ -1,5 +1,7 @@
 # My Learning Journey
 
+11.26. Sport day with Angular learning
+
 11.25. Angular learning
 
 11.24. Angular and PHP learning
@@ -74,7 +76,7 @@
 
 10.20. Angular and PHP learning
 
-10.19. Angular learning 
+10.19. Angular learning
 
 10.18. JavaScript and Angular learning
 
