@@ -1,5 +1,7 @@
 # My Learning Journey
 
+11.27. Angular learning
+
 11.26. Sport day with Angular learning
 
 11.25. Angular learning
