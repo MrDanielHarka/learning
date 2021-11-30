@@ -1,5 +1,11 @@
 # My Learning Journey
 
+11.30. Sport day with short repetition
+
+11.29. TypeScript learning
+
+11.28. Angular learning
+
 11.27. Angular learning
 
 11.26. Sport day with Angular learning
