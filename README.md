@@ -1,5 +1,11 @@
 # My Learning Journey
 
+12.09. Sport day with short repetition
+
+12.08. PHP and MySQL learning
+
+12.07. Sport day with short repetition
+
 12.06. Angular learning
 
 12.05. Sport day with short repetition
