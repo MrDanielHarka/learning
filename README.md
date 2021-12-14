@@ -1,5 +1,15 @@
 # My Learning Journey
 
+12.14. Angular learning
+
+12.13. Bootstrap repetition
+
+12.12. Angular learning
+
+12.11. Angular learning
+
+12.10. Angular learning
+
 12.09. Sport day with short repetition
 
 12.08. PHP and MySQL learning
