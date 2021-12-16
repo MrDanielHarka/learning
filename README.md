@@ -1,5 +1,9 @@
 # My Learning Journey
 
+12.16. Angular learning
+
+12.15. PHP and MySQL learning
+
 12.14. Angular learning
 
 12.13. Bootstrap repetition
