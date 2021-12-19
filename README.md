@@ -1,5 +1,7 @@
 # My Learning Journey
 
+12.19. Angular learning
+
 12.18. Angular learning
 
 12.17. Sport day with short repetition
