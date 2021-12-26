@@ -1,5 +1,11 @@
 # My Learning Journey
 
+12.26. Angular learning
+
+12.25. Rest day
+
+12.24. Rest day
+
 12.23. Angular learning
 
 12.22. Angular learning
