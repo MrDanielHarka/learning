@@ -1,5 +1,7 @@
 # My Learning Journey
 
+01.02. Angular learning
+
 01.01. Rest day
 
 ## 2021
