@@ -1,8 +1,12 @@
 # My Learning Journey
 
+01.08. Angular learning
+
+01.07. Angular learning
+
 01.06. Angular learning
 
-01.05. Angular learning
+01.05. Sport day
 
 01.04. Angular learning
 
