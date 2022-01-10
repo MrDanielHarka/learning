@@ -1,5 +1,7 @@
 # My Learning Journey
 
+01.10. Database learning
+
 01.09. Angular learning
 
 01.08. Angular learning
