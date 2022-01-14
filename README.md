@@ -1,5 +1,9 @@
 # My Learning Journey
 
+01.14. Angular learning
+
+01.13. Sport day
+
 01.12. PHP learning
 
 01.11. Angular learning
