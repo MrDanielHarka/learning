@@ -1,5 +1,7 @@
 # My Learning Journey
 
+01.15. Angular learning
+
 01.14. Angular learning
 
 01.13. Sport day
