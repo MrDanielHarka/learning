@@ -1,5 +1,11 @@
 # My Learning Journey
 
+01.18. Angular learning
+
+01.17. Angular learning
+
+01.16. Angular learning
+
 01.15. Angular learning
 
 01.14. Angular learning
