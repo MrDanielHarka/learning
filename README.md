@@ -1,6 +1,8 @@
 # My Learning Journey
 
-01.19. Angular learning
+01.20. Sport day
+
+01.19. MySQL learning
 
 01.18. Angular learning
 
