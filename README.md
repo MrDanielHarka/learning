@@ -1,5 +1,9 @@
 # My Learning Journey
 
+01.22. JavaScript repetition
+
+01.21. JavaScript repetition
+
 01.20. Sport day
 
 01.19. MySQL learning
