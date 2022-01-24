@@ -1,5 +1,9 @@
 # My Learning Journey
 
+## 2022
+
+01.24. MySQL learning
+
 01.23. JavaScript repetition
 
 01.22. JavaScript repetition
