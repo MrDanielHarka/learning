@@ -2,6 +2,8 @@
 
 ## 2022
 
+01.25. JavaScript repetition
+
 01.24. MySQL learning
 
 01.23. JavaScript repetition
