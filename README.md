@@ -2,6 +2,12 @@
 
 ## 2022
 
+01.28. Sport day
+
+01.27. JavaScript practice
+
+01.26. PHP & Database learning
+
 01.25. JavaScript repetition
 
 01.24. MySQL learning
