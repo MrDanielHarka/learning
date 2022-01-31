@@ -2,6 +2,12 @@
 
 ## 2022
 
+01.31. JavaScript practice
+
+01.30. JavaScript practice
+
+01.29. JavaScript practice
+
 01.28. Sport day
 
 01.27. JavaScript practice
