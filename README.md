@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.01. JavaScript practice
+
 01.31. JavaScript practice
 
 01.30. JavaScript practice
