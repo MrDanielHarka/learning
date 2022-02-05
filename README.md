@@ -2,6 +2,14 @@
 
 ## 2022
 
+02.05. NodeJS learning
+
+02.04. Sport day
+
+02.03. JavaScript practice
+
+02.02. Database learning
+
 02.01. JavaScript practice
 
 01.31. JavaScript practice
