@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.06. NodeJS and Express learning
+
 02.05. NodeJS learning
 
 02.04. Sport day
