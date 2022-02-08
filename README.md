@@ -2,6 +2,10 @@
 
 ## 2022
 
+02.08. Angular practice
+
+02.07. NodeJS and MySQL learning
+
 02.06. NodeJS and Express learning
 
 02.05. NodeJS learning
