@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.09. PHP & Database learning
+
 02.08. Angular practice
 
 02.07. NodeJS and MySQL learning
