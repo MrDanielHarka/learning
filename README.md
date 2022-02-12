@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.12. Angular practice
+
 02.11. Sport day
 
 02.10. Angular practice
