@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.14. NodeJS learning
+
 02.13. Angular practice
 
 02.12. Angular practice
