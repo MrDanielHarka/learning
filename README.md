@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.17. NodeJS learning
+
 02.16. NodeJS and MySQL learning
 
 02.15. NodeJS learning
