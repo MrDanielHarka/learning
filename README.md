@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.19. Angular practice
+
 02.18. Sport day
 
 02.17. NodeJS learning
