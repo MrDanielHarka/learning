@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.22. Angular and NodeJS learning
+
 02.21. Angular and NodeJS learning
 
 02.20. Angular and NodeJS learning
