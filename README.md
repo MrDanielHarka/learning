@@ -2,6 +2,8 @@
 
 ## 2022
 
+02.23. NodeJS and MySQL learning
+
 02.22. Angular and NodeJS learning
 
 02.21. Angular and NodeJS learning
