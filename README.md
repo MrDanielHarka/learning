@@ -2,6 +2,10 @@
 
 ## 2022
 
+02.26. Angular and NodeJS learning
+
+02.25. Sport day
+
 02.24. Angular and NodeJS learning
 
 02.23. NodeJS and MySQL learning
