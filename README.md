@@ -2,6 +2,10 @@
 
 ## 2022
 
+03.03. NodeJS and MySQL learning
+
+03.02. Sport day
+
 03.01. NodeJS and MySQL learning
 
 02.28. NodeJS and MySQL learning
