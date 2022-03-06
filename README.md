@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.06. NodeJS and MySQL learning
+
 03.05. NodeJS and MySQL learning
 
 03.04. NodeJS and MySQL learning
