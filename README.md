@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.12. NodeJS and Angular practice
+
 03.11. Shopify learning
 
 03.10. Shopify learning
