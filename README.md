@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.16. Shopify learning
+
 03.15. NodeJS and Angular practice
 
 03.14. Sport day
