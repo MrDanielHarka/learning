@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.19. NodeJS and MySQL learning
+
 03.18. Shopify learning
 
 03.17. Shopify learning
