@@ -2,6 +2,10 @@
 
 ## 2022
 
+03.21. Shopify learning
+
+03.20. Sport day
+
 03.19. NodeJS and MySQL learning
 
 03.18. Shopify learning
