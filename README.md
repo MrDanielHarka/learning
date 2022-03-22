@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.22. Shopify learning
+
 03.21. Shopify learning
 
 03.20. Sport day
