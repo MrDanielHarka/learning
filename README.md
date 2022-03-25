@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.25. Shopify learning
+
 03.24. Shopify learning
 
 03.23. Shopify learning
