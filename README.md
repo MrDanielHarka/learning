@@ -2,6 +2,12 @@
 
 ## 2022
 
+03.29. CSS practice
+
+03.28. CSS practice
+
+03.27. Sport day
+
 03.26. Shopify learning
 
 03.25. Shopify learning
