@@ -2,6 +2,8 @@
 
 ## 2022
 
+03.31. Shopify learning
+
 03.30. CSS practice
 
 03.29. CSS practice
