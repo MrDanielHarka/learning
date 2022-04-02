@@ -2,6 +2,8 @@
 
 ## 2022
 
+04.02. Node.js learning
+
 04.01. Shopify learning
 
 03.31. Shopify learning
