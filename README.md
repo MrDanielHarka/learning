@@ -2,7 +2,9 @@
 
 ## 2022
 
-04.05. Node.js learning
+04.06. Shopify learning
+
+04.05. Firebase learning
 
 04.04. Shopify learning
 
