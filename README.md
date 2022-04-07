@@ -2,6 +2,8 @@
 
 ## 2022
 
+04.07. CSS practice
+
 04.06. Shopify learning
 
 04.05. Firebase learning
