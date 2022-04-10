@@ -2,6 +2,10 @@
 
 ## 2022
 
+04.10. Firebase learning
+
+04.09. Sport day
+
 04.08. Shopify learning
 
 04.07. CSS practice
