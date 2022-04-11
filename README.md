@@ -2,6 +2,8 @@
 
 ## 2022
 
+04.11. CSS practice
+
 04.10. Firebase learning
 
 04.09. Sport day
