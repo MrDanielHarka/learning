@@ -2,6 +2,10 @@
 
 ## 2022
 
+04.16. Heroku learning
+
+04.15. Sport day
+
 04.14. CSS practice
 
 04.13. Shopify learning
