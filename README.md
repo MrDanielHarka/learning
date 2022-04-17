@@ -2,6 +2,8 @@
 
 ## 2022
 
+04.17. Heroku learning
+
 04.16. Heroku learning
 
 04.15. Sport day
