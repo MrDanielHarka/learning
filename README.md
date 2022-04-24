@@ -2,6 +2,10 @@
 
 ## 2022
 
+04.24. Node.js learning
+
+04.23. Sport day
+
 04.22. Shopify learning
 
 04.21. Shopify learning
