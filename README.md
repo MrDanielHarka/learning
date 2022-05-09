@@ -2,6 +2,8 @@
 
 ## 2022
 
+05.09. HTML & CSS practice
+
 05.08. Node.js learning
 
 05.07. Sport day
