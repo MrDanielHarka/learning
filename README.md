@@ -2,6 +2,8 @@
 
 ## 2022
 
+05.12. HTML & CSS practice
+
 05.11. HTML & CSS practice
 
 05.10. HTML & CSS practice
