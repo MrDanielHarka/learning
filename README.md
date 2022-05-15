@@ -2,6 +2,10 @@
 
 ## 2022
 
+05.15. Angular learning
+
+05.14. Sport day
+
 05.13. HTML & CSS practice
 
 05.12. HTML & CSS practice
