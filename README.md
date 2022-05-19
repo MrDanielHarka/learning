@@ -2,7 +2,7 @@
 
 ## 2022
 
-05.19. Bootsrap practice
+05.19. Bootstrap practice
 
 05.18. HTML & CSS practice
 
