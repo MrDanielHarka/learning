@@ -2,6 +2,10 @@
 
 ## 2022
 
+05.22. Angular learning
+
+05.21. Sport day
+
 05.20. Bootstrap practice
 
 05.19. Bootstrap practice
