@@ -2,6 +2,8 @@
 
 ## 2022
 
+05.23. Axios and Bootstrap learning
+
 05.22. Angular learning
 
 05.21. Sport day
