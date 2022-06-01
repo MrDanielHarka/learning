@@ -2,7 +2,11 @@
 
 ## 2022
 
-06.01. EJS practice
+06.01. EJS and Bootstrap practice
+
+05.31. EJS and Bootstrap practice
+
+05.30. EJS and Bootstrap practice
 
 05.29. Angular practice
 
