@@ -2,6 +2,12 @@
 
 ## 2022
 
+06.01. EJS practice
+
+05.29. Angular practice
+
+05.28. Sport day
+
 05.27. EJS & Bootstrap practice
 
 05.26. Bootstrap practice
