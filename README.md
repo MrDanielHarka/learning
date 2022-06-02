@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.02. EJS and Bootstrap practice
+
 06.01. EJS and Bootstrap practice
 
 05.31. EJS and Bootstrap practice
