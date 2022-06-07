@@ -2,6 +2,14 @@
 
 ## 2022
 
+06.07. EJS and Axios practice
+
+06.06. EJS and Bootstrap practice
+
+06.05. Sport day
+
+06.04. Sport day
+
 06.03. EJS and Bootstrap practice
 
 06.02. EJS and Bootstrap practice
