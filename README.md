@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.08. Google Maps API and Axios practice
+
 06.07. EJS and Axios practice
 
 06.06. EJS and Bootstrap practice
