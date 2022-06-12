@@ -2,6 +2,10 @@
 
 ## 2022
 
+06.12. Shopify practice
+
+06.11. Sport day
+
 06.10. EJS and Shopify practice
 
 06.09. Bootstrap and EJS practice
