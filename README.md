@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.13. Shopify practice
+
 06.12. Shopify practice
 
 06.11. Sport day
