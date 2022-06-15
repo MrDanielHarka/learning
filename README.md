@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.15. Shopify practice
+
 06.14. Shopify practice
 
 06.13. Shopify practice
