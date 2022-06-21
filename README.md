@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.21. Shopify & Bootstrap practice
+
 06.20. Shopify & Bootstrap practice
 
 06.19. Sport day
