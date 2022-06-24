@@ -2,6 +2,8 @@
 
 ## 2022
 
+06.24. Bootstrap practice
+
 06.23. Bootstrap practice
 
 06.22. Shopify & Bootstrap practice
