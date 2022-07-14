@@ -2,6 +2,8 @@
 
 ## 2022
 
+07.14. Bootstrap practice
+
 07.13. Bootstrap practice
 
 07.12. Bootstrap practice
