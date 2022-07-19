@@ -2,6 +2,8 @@
 
 ## 2022
 
+07.19. Bootstrap & JavaScript practice
+
 07.18. Bootstrap & JavaScript practice
 
 07.17. Sport day
