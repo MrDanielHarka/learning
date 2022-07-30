@@ -2,6 +2,8 @@
 
 ## 2022
 
+07.30. Bootstrap and Shopify practice
+
 07.29. Bootstrap and Shopify practice
 
 07.28. Bootstrap and Shopify practice
