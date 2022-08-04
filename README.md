@@ -2,6 +2,10 @@
 
 ## 2022
 
+08.04. Bootstrap practice
+
+08.03. Bootstrap practice
+
 08.02. Bootstrap and Shopify practice
 
 08.01. Bootstrap and Shopify practice
