@@ -2,6 +2,8 @@
 
 ## 2022
 
+08.09. Bootstrap practice
+
 08.08. Bootstrap practice
 
 08.07. Sport day
