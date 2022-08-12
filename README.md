@@ -2,6 +2,11 @@
 
 ## 2022
 
+
+08.12. Bootstrap and JavaScript practice
+
+08.11. Bootstrap practice
+
 08.10. Bootstrap practice
 
 08.09. Bootstrap practice
