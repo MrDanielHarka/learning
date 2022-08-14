@@ -3,6 +3,10 @@
 ## 2022
 
 
+08.14. JavaScript practice
+
+08.13. Sport day
+
 08.12. Bootstrap and JavaScript practice
 
 08.11. Bootstrap practice
