@@ -2,6 +2,7 @@
 
 ## 2022
 
+08.15. JavaScript practice
 
 08.14. JavaScript practice
 
