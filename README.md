@@ -2,6 +2,10 @@
 
 ## 2022
 
+09.19. Bootstrap practice
+
+09.18. Sport day
+
 09.17. JavaScript practice
 
 09.16. JavaScript and Bootstrap practice
@@ -14,9 +18,19 @@
 
 09.12. JavaScript and Bootstrap practice
 
+08.11. Sport day
+
+08.10. Sport day
+
+08.09. Sport day
+
 09.08. JavaScript practice
 
 09.07. JavaScript practice
+
+08.06. Sport day
+
+08.05. Sport day
 
 09.04. JavaScript practice
 
@@ -26,9 +40,21 @@
 
 09.01. JavaScript practice
 
+08.31. Sport day
+
 08.30. JavaScript practice
 
+08.29. Sport day
+
+08.28. Sport day
+
 08.27. JavaScript practice
+
+08.26. Sport day
+
+08.25. Sport day
+
+08.24. Sport day
 
 08.23. JavaScript practice
 
