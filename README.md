@@ -2,7 +2,7 @@
 
 ## 2022
 
-09.19. PHP and WordPress practice
+09.20. PHP and WordPress practice
 
 09.19. Bootstrap practice
 
