@@ -2,7 +2,7 @@
 
 ## 2022
 
-09.20. PHP and JavaScript practice
+09.21. PHP and JavaScript practice
 
 09.20. PHP and WordPress practice
 
