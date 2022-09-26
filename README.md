@@ -2,7 +2,11 @@
 
 ## 2022
 
-09.24. Sport day
+09.26. PHP & WordPress practice
+
+09.25. Sport day
+
+09.24. JavaScript practice
 
 09.23. PHP and WordPress practice
 
