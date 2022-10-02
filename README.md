@@ -2,6 +2,10 @@
 
 ## 2022
 
+10.02. JavaScript practice
+
+10.01. Sport day
+
 09.30. PHP & JavaScript practice
 
 09.29. PHP & JavaScript practice
