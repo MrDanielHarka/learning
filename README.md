@@ -2,6 +2,8 @@
 
 ## 2022
 
+10.03. PHP & JavaScript practice
+
 10.02. JavaScript practice
 
 10.01. Sport day
