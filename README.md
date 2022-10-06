@@ -2,6 +2,8 @@
 
 ## 2022
 
+10.05. Database & JavaScript practice
+
 10.05. PHP & JavaScript practice
 
 10.04. PHP & JavaScript practice
