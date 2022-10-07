@@ -2,7 +2,9 @@
 
 ## 2022
 
-10.05. Database & JavaScript practice
+10.07. Bootstrap & JavaScript practice
+
+10.06. Database & JavaScript practice
 
 10.05. PHP & JavaScript practice
 
