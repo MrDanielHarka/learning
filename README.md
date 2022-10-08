@@ -2,6 +2,8 @@
 
 ## 2022
 
+10.08. JavaScript practice
+
 10.07. Bootstrap & JavaScript practice
 
 10.06. Database & JavaScript practice
