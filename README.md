@@ -2,6 +2,10 @@
 
 ## 2022
 
+10.08. Bootstrap & JavaScript practice
+
+10.09. Sport day
+
 10.08. JavaScript practice
 
 10.07. Bootstrap & JavaScript practice
