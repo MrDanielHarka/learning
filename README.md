@@ -2,6 +2,8 @@
 
 ## 2022
 
+10.22. Bash and Node.js practice
+
 10.21. Bash and Node.js practice
 
 10.20. Bootstrap & JavaScript practice
