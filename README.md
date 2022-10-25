@@ -2,6 +2,12 @@
 
 ## 2022
 
+10.25. WordPress and Shopify practice
+
+10.24. WordPress & JavaScript practice
+
+10.23. Sport day
+
 10.22. Bash and Node.js practice
 
 10.21. Bash and Node.js practice
