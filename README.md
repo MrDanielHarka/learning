@@ -2,6 +2,8 @@
 
 ## 2022
 
+10.26. Shopify practice
+
 10.25. WordPress and Shopify practice
 
 10.24. WordPress & JavaScript practice
