@@ -4,6 +4,8 @@
 
 10.28. NGINX learning
 
+10.28. NGINX learning
+
 10.27. JavaScript & Shopify practice
 
 10.26. Shopify practice
