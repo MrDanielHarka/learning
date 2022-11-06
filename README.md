@@ -2,6 +2,8 @@
 
 ## 2022
 
+11.06. Node.js learning
+
 10.28. NGINX learning
 
 10.28. NGINX learning
