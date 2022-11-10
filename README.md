@@ -2,6 +2,8 @@
 
 ## 2022
 
+11.10. Chrome Web Store Extension learning
+
 11.09. NGINX learning
 
 11.08. Bootstrap learning
