@@ -1,6 +1,10 @@
 # My Learning Journey
 
-2022.11.26. Cloudflare learning
+2022.11.28. Bootstrap and Shopify Liquid practice
+
+2022.11.27. Sport day
+
+2022.11.26. Domains and Cloudflare learning
 
 2022.11.25. PHP & Bootstrap practice
 
