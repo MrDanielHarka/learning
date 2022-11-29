@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.11.29. Bootstrap practice
+
 2022.11.28. Bootstrap and Shopify Liquid practice
 
 2022.11.27. Sport day
