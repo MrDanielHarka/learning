@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.12.02. Node.js practice
+
 2022.12.01. Shopify Liquid practice
 
 2022.11.30. Bootstrap practice
