@@ -1,5 +1,9 @@
 # My Learning Journey
 
+2022.12.04. Angular, TypeScript and JavaScript practice
+
+2022.12.03. Sport day
+
 2022.12.02. Node.js practice
 
 2022.12.01. Shopify Liquid practice
