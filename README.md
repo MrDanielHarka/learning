@@ -1,5 +1,11 @@
 # My Learning Journey
 
+2022.12.07. jQuery practice
+
+2022.12.06. jQuery practice
+
+2022.12.05. Angular, TypeScript and JavaScript practice
+
 2022.12.04. Angular, TypeScript and JavaScript practice
 
 2022.12.03. Sport day
