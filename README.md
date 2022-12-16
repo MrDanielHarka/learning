@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.12.16. jQuery & JavaScript practice
+
 2022.12.15. jQuery & JavaScript practice
 
 2022.12.14. jQuery & JavaScript practice
