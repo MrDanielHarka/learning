@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.12.23. HTTP requests practice
+
 2022.12.22. JavaScript practice
 
 2022.12.21. JavaScript practice
