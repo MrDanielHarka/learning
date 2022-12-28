@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.12.28. MongoDB & Mongoose learning
+
 2022.12.27. MongoDB & Mongoose learning
 
 2022.12.26. Node.js practice
