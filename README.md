@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2022.12.31. Sport day
+
 2022.12.30. MongoDB & Mongoose learning
 
 2022.12.29. MongoDB & Mongoose learning
