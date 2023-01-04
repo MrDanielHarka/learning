@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.01.04. JavaScript practice
+
 2023.01.03. JavaScript practice
 
 2023.01.02. MongoDB & Mongoose learning
