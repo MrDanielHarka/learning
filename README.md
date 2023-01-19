@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.01.19. Node.js & JavaScript practice
+
 2023.01.18. Bootstrap & SCSS practice
 
 2023.01.17. Bootstrap & SCSS practice
