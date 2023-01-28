@@ -1,6 +1,15 @@
 # My Learning Journey
 
-2023.01.24. Node.js
+
+2023.01.28. Node.js practice
+
+2023.01.27. Sport day
+
+2023.01.26. Sport day
+
+2023.01.25. Sport day
+
+2023.01.24. Node.js practice
 
 2023.01.23. Node.js & JavaScript practice
 
