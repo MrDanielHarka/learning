@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.02.01. Linux learning
+
 2023.01.31. Linux learning
 
 2023.01.30. Sport day
