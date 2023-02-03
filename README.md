@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.02.03. Linux learning
+
 2023.02.02. Linux learning
 
 2023.02.01. Linux learning
