@@ -1,5 +1,11 @@
 # My Learning Journey
 
+2023.02.04. JavaScript practice
+
+2023.02.05. Sport day
+
+2023.02.04. Sport day
+
 2023.02.03. Linux learning
 
 2023.02.02. Linux learning
