@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.02.07. JavaScript practice
+
 2023.02.06. JavaScript practice
 
 2023.02.05. Sport day
