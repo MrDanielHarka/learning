@@ -1,5 +1,9 @@
 # My Learning Journey
 
+2023.02.10. Linux learning
+
+2023.02.09. Node.js practice
+
 2023.02.08. Node.js practice
 
 2023.02.07. JavaScript practice
