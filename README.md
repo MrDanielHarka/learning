@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.03.07. JavaScript practice
+
 2023.03.06. JavaScript practice
 
 2023.03.05. JavaScript practice
