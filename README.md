@@ -1,14 +1,52 @@
 # My Learning Journey
 
+2023.03.20. Docker learning
+
+2023.03.19. SCSS practice
+
+2023.03.18. Sport day
+
+2023.03.17. Sport day
+
+2023.03.16. SCSS practice
+
+2023.03.15. SCSS practice
+
+2023.03.14. SCSS practice
+
+2023.03.13. SCSS practice
+
+2023.03.12. Sport day
+
+2023.03.11. Sport day
+
+2023.03.10. SCSS practice
+
+2023.03.09. SCSS practice
+
+2023.03.08. SCSS practice
+
 2023.03.07. JavaScript practice
 
 2023.03.06. JavaScript practice
 
-2023.03.05. JavaScript practice
+2023.03.05. CSS practice
+
+2023.03.04. CSS practice
 
 2023.03.03. Docker learning
 
 2023.03.02. Docker learning
+
+2023.03.01. Docker learning
+
+2023.02.28. Sport day
+
+2023.02.27. Sport day
+
+2023.02.26. JavaScript practice
+
+2023.02.25. Sport day
 
 2023.02.24. JavaScript practice
 
