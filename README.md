@@ -1,5 +1,9 @@
 # My Learning Journey
 
+2023.03.23. JavaScript practice
+
+2023.03.22. JavaScript practice
+
 2023.03.21. GitLab learning
 
 2023.03.20. Docker learning
