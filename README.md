@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.03.30. JavaScript practice
+
 2023.03.28. Test Driver Development learning
 
 2023.03.27. JavaScript practice
