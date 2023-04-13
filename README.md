@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.04.13. Refactoring learning
+
 2023.04.12. JavaScript OOP practice
 
 2023.04.09. JavaScript OOP practice
