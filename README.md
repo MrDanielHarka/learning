@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.04.28. JavaScript practice
+
 2023.04.27. Test Driven Development learning
 
 2023.04.26. Test Driven Development learning
