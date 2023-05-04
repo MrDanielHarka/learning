@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.05.04. MySQL learning
+
 2023.05.03. MySQL learning
 
 2023.04.28. JavaScript practice
