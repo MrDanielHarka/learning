@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.05.08. MySQL learning
+
 2023.05.07. MySQL learning
 
 2023.05.06. Sport day
