@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.05.12. MySQL learning
+
 2023.05.11. MySQL learning
 
 2023.05.10. MySQL learning
