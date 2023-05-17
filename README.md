@@ -1,6 +1,16 @@
 # My Learning Journey
 
-2023.05.12. MySQL learning
+2023.05.17. GraphQL learning
+
+2023.05.16. Node.js practice
+
+2023.05.15. SQLite learning
+
+2023.05.14. e-Health Hackathon (Project: [Mentally](https://mentally.harka.com))
+
+2023.05.13. e-Health Hackathon (Project: [Mentally](https://mentally.harka.com))
+
+2023.05.12. e-Health Hackathon (Project: [Mentally](https://mentally.harka.com))
 
 2023.05.11. MySQL learning
 
