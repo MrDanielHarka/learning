@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.05.26. JavaScript practice
+
 2023.05.24. TDD learning
 
 2023.05.23. TDD learning
