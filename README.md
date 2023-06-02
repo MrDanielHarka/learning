@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.06.02. JavaScript practice
+
 2023.06.01. JavaScript practice
 
 2023.05.31. REST API practice
