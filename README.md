@@ -1,5 +1,11 @@
 # My Learning Journey
 
+2023.06.05. Vue learning
+
+2023.06.04. Sport day
+
+2023.06.03. Sport day
+
 2023.06.02. JavaScript practice
 
 2023.06.01. JavaScript practice
