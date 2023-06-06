@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.06.06. Vue learning
+
 2023.06.05. Vue learning
 
 2023.06.04. Sport day
