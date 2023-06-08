@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.06.08. Vue learning
+
 2023.06.07. Vue learning
 
 2023.06.06. Vue learning
