@@ -1,6 +1,8 @@
 # My Learning Journey
 
-2023.06.20. Vue learning
+2023.06.21. Vue learning
+
+2023.06.20. TDD practice
 
 2023.06.19. Vue learning
 
