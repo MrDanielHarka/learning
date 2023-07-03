@@ -1,5 +1,11 @@
 # My Learning Journey
 
+2023.07.03. Vue practice
+
+2023.07.02. Sport day
+
+2023.07.01. Sport day
+
 2023.06.30. Vue practice
 
 2023.06.29. WSL & Docker practice
