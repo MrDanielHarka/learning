@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.07.07. Bash scripting practice
+
 2023.07.06. Vue practice
 
 2023.07.05. Vue practice
