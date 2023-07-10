@@ -1,5 +1,11 @@
 # My Learning Journey
 
+2023.07.10. Vue practice
+
+2023.07.09. Sport day
+
+2023.07.08. Sport day
+
 2023.07.07. Bash scripting practice
 
 2023.07.06. Vue practice
