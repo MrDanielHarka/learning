@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.07.11. Vue practice
+
 2023.07.10. Vue practice
 
 2023.07.09. Sport day
