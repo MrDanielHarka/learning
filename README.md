@@ -1,5 +1,7 @@
 # My Learning Journey
 
+2023.07.14. Linux & NGINX practice
+
 2023.07.13. Linux & NGINX practice
 
 2023.07.12. Linux & NGINX practice
